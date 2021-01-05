@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/HISTORY-CLI/issues"
   },
-  "homepage": "https://github.com/alestor123/HISTORY-CLI#readme"
+  "homepage": "https://github.com/alestor123/HISTORY-CLI#readme",
+  "dependencies": {
+    "shell-history": "^1.1.0"
+  }
 }
